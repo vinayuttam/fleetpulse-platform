@@ -21,3 +21,5 @@ and cold-chain logistics units.
 ## Getting Started
 
 TODO: Update this section
+
+Note: This project is intended for exploration and learning purposes only. It is not optimized for production use.
